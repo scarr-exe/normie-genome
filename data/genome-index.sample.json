@@ -1,0 +1,52 @@
+{
+  "0": {
+    "type": "Human",
+    "gender": "Male",
+    "age": "Young",
+    "hairStyle": "Short Hair",
+    "facialFeature": "None",
+    "eyes": "Normal Eyes",
+    "expression": "Serious",
+    "accessory": "None"
+  },
+  "1": {
+    "type": "Alien",
+    "gender": "Female",
+    "age": "Old",
+    "hairStyle": "Bald",
+    "facialFeature": "None",
+    "eyes": "Big Shades",
+    "expression": "Happy",
+    "accessory": "Top Hat"
+  },
+  "2": {
+    "type": "Cat",
+    "gender": "Male",
+    "age": "Young",
+    "hairStyle": "Long Hair",
+    "facialFeature": "Shadow Beard",
+    "eyes": "Laser Eyes",
+    "expression": "Angry",
+    "accessory": "None"
+  },
+  "3": {
+    "type": "Agent",
+    "gender": "Female",
+    "age": "Middle Age",
+    "hairStyle": "Mohawk",
+    "facialFeature": "None",
+    "eyes": "Normal Eyes",
+    "expression": "Serious",
+    "accessory": "Headphones"
+  },
+  "4": {
+    "type": "Human",
+    "gender": "Male",
+    "age": "Old",
+    "hairStyle": "Bald",
+    "facialFeature": "Mustache",
+    "eyes": "Normal Eyes",
+    "expression": "Happy",
+    "accessory": "None"
+  }
+}
