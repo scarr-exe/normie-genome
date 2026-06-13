@@ -282,3 +282,5 @@ normie-genome/
 **Visualization / Art**
 
 Normie Genome creates a discovery layer on top of the Normies collection — transforming raw NFT metadata into a navigable xenobiological archive. The genome network is the centrepiece: a live graph that reveals the species, bloodline, and mutation structure of all 10,000 specimens in a single view.
+#   n o r m i e - g e n o m e  
+ 
