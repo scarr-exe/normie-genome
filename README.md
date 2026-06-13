@@ -229,7 +229,7 @@ The genome index is built using the traits endpoint at 50 requests per minute (s
 ## Running Locally
 
 ```bash
-git clone https://github.com/scarrxt/normie-genome
+git clone https://github.com/scarr-exe/normie-genome
 cd normie-genome
 npm install
 npm run dev
